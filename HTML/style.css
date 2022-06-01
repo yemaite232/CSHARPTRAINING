@@ -1,0 +1,14 @@
+header { COLOUR:BLUE;
+    text-align: unset;
+    background-color: rgb(146, 96, 127);
+    font-size: larger;}
+
+ h1 { text-align: center;
+     background-color: aqua; font-style: italic; 
+    font-size: xx-large; font-style: inherit; font-weight: bolder; text-transform: calc(700);
+   }
+
+ body {
+    background-color: bisque;
+    }
+li {tes}
